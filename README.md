@@ -35,6 +35,7 @@ To run the analysis:
 Ensure the required packages are installed (see Installation).
 
 **Run the main Python script for analysis:**
+```bash
 python analysis.py
 
 **Alternatively, open the Jupyter Notebook for an interactive experience:**
