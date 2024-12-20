@@ -19,7 +19,6 @@ Follow these steps to set up and run the project:
    git clone https://github.com/username/ev-sales-analysis.git
 
 2.   **Navigate to the project directory:**
- 
    cd ev-sales-analysis
 
 3. **Install the required dependencies:**
@@ -33,7 +32,6 @@ To run the analysis:
 Ensure the required packages are installed (see Installation).
 
 **Run the main Python script for analysis:**
-```bash
 python analysis.py
 
 **Alternatively, open the Jupyter Notebook for an interactive experience:**
