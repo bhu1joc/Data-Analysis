@@ -66,7 +66,9 @@ Price**
 This project utilizes several Python libraries to analyze and visualize the EV sales data:
 
 Pandas: Data manipulation and analysis.
+
 Matplotlib/Seaborn: For visualizations like line plots, bar charts, and heatmaps.
+
 Scikit-learn (if applicable): For any machine learning models used.
 
 
