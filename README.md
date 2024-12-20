@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 
 
-**Usage**
+## Usage
 
 To run the analysis:
 
@@ -53,7 +53,7 @@ Price**
 
 ###Please download the data and place it in the data/ folder before running the analysis.
 
-   **Analysis**
+## Analysis
 
 This project utilizes several Python libraries to analyze and visualize the EV sales data:
 
@@ -68,7 +68,7 @@ Trend analysis of EV sales over the years.
 Comparative analysis of sales in different regions.
 Correlation analysis between EV sales and other variables like price and incentives.
 
-**Visualizations**
+## Visualizations
 The following visualizations are generated during the analysis:
 
 Line plots showing the growth of EV sales by region.
