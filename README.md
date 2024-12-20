@@ -19,12 +19,11 @@ Follow these steps to set up and run the project:
    git clone https://github.com/username/ev-sales-analysis.git
 
 2.   **Navigate to the project directory:**
-   
-cd ev-sales-analysis
+ 
+   cd ev-sales-analysis
 
-4. **Install the required dependencies:**
-```bash
-pip install -r requirements.txt
+3. **Install the required dependencies:**
+   pip install -r requirements.txt
 
 
 ## Usage
@@ -44,7 +43,7 @@ jupyter notebook analysis.ipynb
 
 
 
-**Data**
+## Data
 The dataset used in this project contains historical sales data for Electric Vehicles (EVs) from [Data Source]. The data includes the following columns:
 
 **Year
