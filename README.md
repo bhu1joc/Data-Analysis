@@ -17,12 +17,17 @@ Follow these steps to set up and run the project:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/username/ev-sales-analysis.git
+     exit
 
 2.   **Navigate to the project directory:**
+   ```bash
    cd ev-sales-analysis
+  exit
 
-3. **Install the required dependencies:**
+4. **Install the required dependencies:**
+  ```bash
    pip install -r requirements.txt
+   exit
 
 
 ## Usage
