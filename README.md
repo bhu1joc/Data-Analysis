@@ -21,10 +21,10 @@ Follow these steps to set up and run the project:
 
 2.   **Navigate to the project directory:**
   
-   cd ev-sales-analysis
+     cd ev-sales-analysis
   
 
-4. **Install the required dependencies:**
+3. **Install the required dependencies:**
  
    pip install -r requirements.txt
    
@@ -37,10 +37,12 @@ To run the analysis:
 Ensure the required packages are installed (see Installation).
 
 **Run the main Python script for analysis:**
-python analysis.py
+
+  python analysis.py
 
 **Alternatively, open the Jupyter Notebook for an interactive experience:**
-jupyter notebook analysis.ipynb
+
+  jupyter notebook analysis.ipynb
 
 *The results will be displayed as visualizations (charts/graphs) and summary outputs.*
 
@@ -55,7 +57,9 @@ Sales Volume
 EV Model
 Price**
 
+
 ###Please download the data and place it in the data/ folder before running the analysis.
+
 
 ## Analysis
 
