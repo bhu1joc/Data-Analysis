@@ -19,9 +19,11 @@ Follow these steps to set up and run the project:
    git clone https://github.com/username/ev-sales-analysis.git
 
 2.   **Navigate to the project directory:**
+```bash
 cd ev-sales-analysis
 
 3. **Install the required dependencies:**
+```bash
 pip install -r requirements.txt
 
 
